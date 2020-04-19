@@ -1,12 +1,11 @@
 # TIL
-Record of what i leared
+혼자서 공부하는 것을 메모하는 공간
 
-4
+의식의 흐름대로 단순히 적는 메모장
 
-- azure vm - Linux (ubuntu 18.04) 설치
-  - azyue cli - bash > keygen 후 vm 에 사용
-  - mediawiki 설치 
-    - https://linuxhostsupport.com/blog/how-to-install-mediawiki-on-ubuntu-18-04/
-    - Nginx virtual block 세팅에서 막힘
-- NginX 공부
-- 
+2020.4
+
+- azure 900 - fundamental 자격증 취득
+- docker tutorial - https://docker-curriculum.com/#hello-world
+- linux - https://www.inflearn.com/course/command-line
+
