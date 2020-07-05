@@ -16,3 +16,13 @@
 - docker tutorial - https://docker-curriculum.com/#hello-world
 - linux - https://www.inflearn.com/course/command-line
 
+### 5
+
+ - elasticsearch hello world (엘라스틱서치 실무 가이드) : https://blog.naver.com/deet1107/222020805135
+   - 기본 구조, 한글 형태소 분석을 공부해서 제품 검색 기능 데모 만듦
+ - elasticsearch 서울시 대시보드 만들기 : https://blog.naver.com/deet1107/222020818091
+   - 스터디 발표용 자료
+
+### 6
+  - elasticsearhc 인강 (udemy, frank kane, Elasticsearch 7 and the Elastic Stack - In Depth & Hands On!)
+    - elk stack + painless/template/failure/sharding 등 : https://velog.io/@deet1107/logstash-filebeat
